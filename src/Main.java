@@ -1,4 +1,4 @@
-//public class Main {
+public class Main {
 //    public static void main(String[] args) {
 //      System.out.println(("안녕 자바!"));
 //      System.out.println(("헬로 자바!"));
@@ -14,4 +14,4 @@
 //         */
 //        System.out.printIn("헬로 자바");
 //    }
-//}
+}
